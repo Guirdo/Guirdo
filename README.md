@@ -2,7 +2,7 @@
 
 I've finished a computational systems engineering degree, currently looking for a job opportunity as a front-end web developer with JavaScript, HTML, CSS, ReactJS and NextJS.
 
-I love to make my ideas come true throught programming, because technology makes the way much easier for creating new and useful things for everyone.
+I love to make my ideas come true through programming, because technology makes the way much easier for creating new and useful things for everyone.
 
 With my web development and design knowledge, I've helped local businesses to have a presence on the internet. Since I think technology must be at our service and not the opposite.
 
@@ -30,7 +30,7 @@ With my web development and design knowledge, I've helped local businesses to ha
 
 ## Stats:
 
-![https://github-readme-stats.vercel.app/api?username=Guirdo](https://github-readme-stats.vercel.app/api?username=Guirdo)
+![https://github-readme-stats.vercel.app/api?username=Guirdo](https://github-readme-stats.vercel.app/api?username=Guirdo&show_icons=true&theme=dark)
 
 ## 🔎 Where you can find me
 
