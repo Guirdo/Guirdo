@@ -1,10 +1,10 @@
 # Hello, there! I'm Seb Méndez...
 
-I've finished a computational systems engineering degree, currently looking for a job opportunity as a front-end web developer.
-
 I love to make my ideas come true through programming, because technology makes the way much easier for creating new and useful things for everyone.
 
 With my web development and design knowledge, I've helped local businesses to have a presence on the internet. Since I think technology must be at our service and not the opposite.
+
+Currently working as a sensei at [DevF](https://devf.la).
 
 ## ⚒️ My projects
 
@@ -26,7 +26,7 @@ With my web development and design knowledge, I've helped local businesses to ha
 |  Web development | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  |
 | Static site generator | ![Eleventy Badge](https://img.shields.io/badge/Eleventy-000?logo=eleventy&logoColor=fff&style=for-the-badge) |
 |  CSS pre & post processors | ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![PostCSS Badge](https://img.shields.io/badge/PostCSS-DD3A0A?logo=postcss&logoColor=fff&style=flat-square)|
-| JS Frameworks & libraries  | ![Solid Badge](https://img.shields.io/badge/Solid-2C4F7C?logo=solid&logoColor=fff&style=for-the-badge) ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) |
+| JS Frameworks & libraries  | ![Solid Badge](https://img.shields.io/badge/Solid-2C4F7C?logo=solid&logoColor=fff&style=for-the-badge) ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
 | Operative System* | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
 <small>*BTW, I use Manjaro </small>
@@ -37,7 +37,7 @@ With my web development and design knowledge, I've helped local businesses to ha
 
 ## 🔎 Where you can find me
 
-- Take a look at my work in my portfolio: [guirdo.xyz](https://guirdo.xyz/)
+- Take a look at my work in my portfolio: [dev.guirdo.xyz](https://dev.guirdo.xyz/)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/seb-mendez/)
 - Send me an email, [let's get in touch](mailto:aldo.seb.mendez@gmail.com)
 - Check out my [resume](https://rxresu.me/guirdo/sebastianmendezen)
