@@ -8,7 +8,7 @@ With my web development and design knowledge, I've helped local businesses to ha
 
 | Name | Description | Demo |
 |--|--|--|
-| [Cadáver Exquisito](https://www.cadaverexquisito.xyz/) | It's a wordplay where your friends and you write a poem or story together, but you just could see what the previous person wrote. At the end of the game, you will see the result of the collective consciousness of your group. | ![Cadáver Exquisito](https://res.cloudinary.com/dyuo7wfyi/image/upload/v1683394703/website/projects/ce_en_01_x4g2yp.png) |
+| [Cadáver Exquisito](https://www.exquisito.guirdo.xyz/) | It's a wordplay where your friends and you write a poem or story together, but you just could see what the previous person wrote. At the end of the game, you will see the result of the collective consciousness of your group. | ![Cadáver Exquisito](https://res.cloudinary.com/dyuo7wfyi/image/upload/v1683394703/website/projects/ce_en_01_x4g2yp.png) |
 | [APOD App](https://apod-app-guirdo.vercel.app/) | A front-end app for the Astronomical Picture Of the Day API from NASA.| ![APOD App](https://res.cloudinary.com/dyuo7wfyi/image/upload/v1677338686/website/projects/apod-app_i8d5c5.png) |
 | [Imperambiental](https://imperambiental.com) | A landing page made by me and a friend for a local business. | ![Imperambiental](https://res.cloudinary.com/dyuo7wfyi/image/upload/v1677534956/website/projects/imperambiental_omjwtr.png) |
 | [MusTalk](https://mustalk.vercel.app/home) | A social network where people share their music taste and talk about why they like that song. | ![MusTalk](https://res.cloudinary.com/dyuo7wfyi/image/upload/v1677594695/website/projects/mustalk_ormvre.png) |
